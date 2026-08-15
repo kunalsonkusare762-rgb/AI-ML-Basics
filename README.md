@@ -1,6 +1,6 @@
 # AI & Machine Learning Basics
 
-This repository contains my beginner-level learning activities related to Artificial Intelligence, Machine Learning, Deep Learning and Python programming.
+This repository contains my beginner-level learning activities related to Artificial Intelligence, Machine Learning, Deep Learning and Python programming.a
 
 ## Topics Covered
 
@@ -76,6 +76,6 @@ After completing this activity, I developed a basic understanding of AI, ML and 
 
 ## Author
 
-**Anshul Nipane**
+**kunal sonkusare**
 
 B.Tech – Information Technology 
